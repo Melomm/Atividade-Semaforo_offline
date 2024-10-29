@@ -20,7 +20,7 @@ O sistema de Semáforo opera com um botão que pode ser ativado por um pedestre 
 ### Video do Funcionamento
 <div align="center">
 <sub>Video 1 — Semaforo <a href="#c6"></a></sub> </br>
-<video controls src="Assets/Semaforo.mp4" title="Title"></video>
+<video controls src="Assets/Semaforo.mp4"><br>
 </div><br>
 
 
