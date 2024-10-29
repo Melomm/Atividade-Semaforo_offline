@@ -18,10 +18,7 @@
 O sistema de Semáforo opera com um botão que pode ser ativado por um pedestre para parar os carros, um buzzer e três LEDs. O botão é monitorado continuamente para verificar seu estado e, ao ser pressionado, ativa o sistema. Nesse momento, o buzzer emite sons e as LEDs ativam de acordo com o ciclo do semáforo: do verde para o amarelo, do amarelo para o vermelho, e depois de volta ao amarelo e em seguinte o verde, completando o processo. Durante a mudança das LEDs, o buzzer emite sons para sinalizar cada etapa de transição.
 
 ### Video do Funcionamento
-<div align="center">
-<sub>Video 1 — Semaforo <a href="#c6"></a></sub> </br>
-<video controls src="Assets/Semaforo.mp4"></video>
-</div><br>
+https://github.com/user-attachments/assets/5d1e3c31-689a-4b35-85cb-791781f4b97e
 
 
 ## Parte 2: Programação e Lógica do Semáforo
